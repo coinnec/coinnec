@@ -1,4 +1,5 @@
-# coinnecCoinnec
+Coinnec
+
 A Blockchain based decentralized business platform.
 
 
@@ -20,7 +21,9 @@ Coinnec will continue to introduce new ways of work monetization for the benef
 
 —
 
-DECENTRALIZED No central authority, a network of nodes with zero-knowledge keeps you safe from malicious activity and attempts at stealing your information.  SOCIAL Make connections with users and meet new people through social networking, powered by new breakthroughs in blockchain technology using distributed computing.  SECURE The goal of Coinnec is to allow users to involve in a completely secure fashion thanks to strong cryptography, without giving up privacy to a central authority.  —
+DECENTRALIZED 
+No central authority, a network of nodes with zero-knowledge keeps you safe from malicious activity and attempts at stealing your information.  SOCIAL Make connections with users and meet new people through social networking, powered by new breakthroughs in blockchain technology using distributed computing.  SECURE The goal of Coinnec is to allow users to involve in a completely secure fashion thanks to strong cryptography, without giving up privacy to a central authority.  —
+
 NO SOFTWARE REQUIRED
 Coinnec will work through a standard web browser.
 
